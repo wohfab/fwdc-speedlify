@@ -27,6 +27,7 @@ module.exports = {
 		"https://www.wohfab.tech/",
 		"https://www.immobaysteuer.de/",
 		"https://www.tobiaswohlgemuth.de/",
+		"https://wp.fabianwohlgemuth.de/",
 		// "https://www.fwdc-pagespeed.netlify.app/",
 		// "https://www.fwdc-pagespeed.netlify.app/",
 		// "https://www.fwdc-pagespeed.netlify.app/",
