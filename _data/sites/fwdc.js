@@ -13,24 +13,10 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://www.fwdc-pagespeed.netlify.app/",
+		"https://www.fabianwohlgemuth.de/",
 		"https://www.fwdc-neat-starter.netlify.app/",
-		"https://www.fwdc-ald.netlify.app/",
-		"https://www.fwdc-dece.netlify.app/",
-		"https://www.fwdc-intimgeist.netlify.app/",
-		"https://www.feynmatt.com/",
 		"https://www.ninafabian.de/",
 		"https://www.jäckel.com/",
-		"https://www.bootsmannnrw.de/",
-		"https://www.kurzundscherzlos.de/",
-		"https://www.buffedbrain.com/",
-		"https://www.wohfab.tech/",
-		"https://www.immobaysteuer.de/",
-		"https://www.tobiaswohlgemuth.de/",
 		"https://wp.fabianwohlgemuth.de/",
-		// "https://www.fwdc-pagespeed.netlify.app/",
-		// "https://www.fwdc-pagespeed.netlify.app/",
-		// "https://www.fwdc-pagespeed.netlify.app/",
-		// "https://www.fwdc-pagespeed.netlify.app/",
 	]
 };
