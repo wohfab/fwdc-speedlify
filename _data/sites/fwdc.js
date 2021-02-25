@@ -13,10 +13,10 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://fabianwohlgemuth.de/",
-		"https://fwdc-neat-starter.netlify.app/",
-		"https://ninafabian.de/",
-		"https://jäckel.com/",
+		"https://www.fabianwohlgemuth.de/",
+		// "https://fwdc-neat-starter.netlify.app/",
+		// "https://ninafabian.de/",
+		// "https://jäckel.com/",
 		"https://wp.fabianwohlgemuth.de/",
 	]
 };
